@@ -1,0 +1,30 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem 0 2rem;
+}
+
+.siteName {
+    font-size: 1.5em;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+  
+.container {
+    width: var(--max-width);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

@@ -1,0 +1,14 @@
+.logo-wrap {
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    background: darkslateblue;
+}
+
+.logo {
+    border-radius: 50%;
+}

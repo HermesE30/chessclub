@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "home",
+      "name": "Início",
+      "route": "/"
+    },
+    {
+      "id": "torneios",
+      "name": "Torneios",
+      "route": "/torneios"
+    },
+    {
+      "id": "players",
+      "name": "Players",
+      "route": "/players"
+    }  
+  ]
+}

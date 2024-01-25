@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.125rem;
+}
+
+.navbar a {
+    color: #ADADAD;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.navbar a:hover,
+.navbar a.active {
+    color: #FFF;
+    font-weight: 600;
+}
+
+@media (max-width: 700px) {
+    .navbar {
+        display: none;
+    }  
+}
+
